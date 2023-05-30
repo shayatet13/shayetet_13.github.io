@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.contact{
+    text-align: center;
+    background-color: black;
+}
+
+h4{
+    color: blue;
+}
+
+.hassanimages{
+    text-align: center;
+    background-color: chartreuse;
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about{
+    background-color: aqua;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.main{
+    text-align: center;
+    background-color: aquamarine;
+}
